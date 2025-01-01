@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/generate"
-  to = "/functions/generate"
+  to = "/functions/generate.py"
   status = 200
