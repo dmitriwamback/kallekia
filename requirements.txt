@@ -1,0 +1,6 @@
+flask
+torch
+transformers
+flask_socketio
+flask_cors
+pyDictionary

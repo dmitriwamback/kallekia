@@ -1,0 +1,8 @@
+[build]
+  functions = "functions"
+  publish = "static"
+
+[[redirects]]
+  from = "/generate"
+  to = "/functions/generate"
+  status = 200

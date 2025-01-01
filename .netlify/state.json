@@ -1,0 +1,21 @@
+{
+	"siteId": "e949b3ed-3635-4be5-a01f-3a941138d25b",
+	"geolocation": {
+		"data": {
+			"city": "Montreal",
+			"country": {
+				"code": "CA",
+				"name": "Canada"
+			},
+			"subdivision": {
+				"code": "QC",
+				"name": "Quebec"
+			},
+			"timezone": "America/Toronto",
+			"latitude": 45.4803,
+			"longitude": -73.5558,
+			"postalCode": "H3K"
+		},
+		"timestamp": 1735759416319
+	}
+}
