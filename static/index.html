@@ -69,8 +69,8 @@
             min-height: 100vh;
             max-height: 100vh;
             height: 100vh;
-            min-width: 30%;
-            max-width: 30%;
+            min-width: 500px;
+            max-width: 500px;
             width: 30%;
             border: 0px;
             background-color: rgb(16, 24, 28);
@@ -126,12 +126,22 @@
         .slidecontainer {
             margin-top: 20px;
         }
+        #link {
+            color: rgb(191, 191, 191);
+            text-decoration: none;
+            transition: color 0.2s ease-in-out;
+        }
+        #link:hover {
+            color: rgb(38, 125, 231);
+        }
+
     </style>
 </head>
 <body>
     <div id="split-container">
         <div id="prompt-container">
             <h1 style="font-family: 'Wix Madefor Text', sans-serif; text-transform: uppercase; display: block; width: 100%; margin-top: 100px; font-size: 40px; text-align: center; font-weight: 800;">Kallekia</h1>
+            <a id="link" style="font-family: 'Wix Madefor Text', sans-serif; display: block; width: 100%; margin-top: 5px; font-size: 15px; text-align: center; font-weight: 400;" href="https://github.com/dmitriwamback/kallekia">Source code</a>
             <textarea rows="50" cols="50" type="text" id="prompt" name="prompt" size="50" placeholder="Enter your prompt"></textarea>
             <div style="display: block; width: 345px; margin: auto;">
                 <div class="slidecontainer">
