@@ -29,7 +29,7 @@ functions = "/Users/dmitriwamback/Documents/Projects/kallekia/kallekia/functions
 
 [[redirects]]
 from = "/generate"
-to = "/functions/generate"
+to = "/functions/generate.py"
 status = 200.0
 force = false
 
